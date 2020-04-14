@@ -1,5 +1,7 @@
-custom
-======
+jvzsh
+=====
+
+Relates to https://github.com/jvz/dotfiles
 
 Add any custom aliases/settings to the `init.zsh` file.
 
