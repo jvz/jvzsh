@@ -5,7 +5,7 @@
 # any custom stuff should go here.
 # ensure that 'custom' exists in the zmodules array in your .zimrc
 
-alias bubu='brew upgrade && brew upgrade --cask'
+alias bubu='brew update && brew upgrade && brew upgrade --cask'
 alias docker-cleanup-images='docker image prune'
 alias docker-remove-stopped='docker container prune'
 alias gdmb='git delete-merged-branches'
